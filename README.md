@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Badr 👋</h1>
 <h3 align="center">Software Engineer | Backend Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-A-Badr&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -16,7 +12,7 @@ I’m a **Software Engineer** with expertise in **Backend Development**, special
   - [Kick Funding Application](https://github.com/kick-Funding-Application/Backend) – Scalable crowdfunding system with advanced search and analytics.  
   - [Discussion Board](https://github.com/Mohamed-A-Badr/Discussion-Board) – A full-stack blogging platform with role-based permissions.  
 
-- 🌱 **Currently Learning**: Advanced **DevOps** and system scalability.  
+- 🌱 **Currently Learning**: Advanced **Backend Development** and system scalability.  
 - 👯 **Looking to Collaborate** on **Open-Source Projects & Backend Systems**.  
 - 📫 **How to reach me**:  
   [LinkedIn](https://www.linkedin.com/in/mohamedbadr115/) |  
