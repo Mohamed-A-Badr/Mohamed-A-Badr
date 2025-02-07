@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Abdelaziz 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Badr 👋</h1>
 <h3 align="center">Software Engineer | Backend Developer | Problem Solver</h3>
 
 <p align="center">
@@ -26,11 +26,23 @@ I’m a **Software Engineer** with expertise in **Backend Development**, special
 ---
 
 ## 🛠 Tech Stack  
-**Languages**: Python, C/C++, JavaScript  
-**Frameworks**: Django, FastAPI, DRF, React.js, Flutter  
-**Databases**: PostgreSQL, MySQL, SQLite  
-**DevOps**: Docker, Heroku, AWS, Redis  
-**Other**: REST API Design, JWT Authentication, Caching, Problem Solving  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF3E00?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
@@ -50,7 +62,3 @@ I’m a **Software Engineer** with expertise in **Backend Development**, special
 ---
 
 🔥 **Passionate about backend development, clean code, and building impactful applications!**  
-
----
-
-⭐ **Feel free to connect & collaborate!** 🚀
