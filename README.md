@@ -6,7 +6,8 @@
 ## 🚀 About Me  
 I’m a **Software Engineer** with expertise in **Backend Development**, specializing in **Django, FastAPI, and REST APIs**. Passionate about solving complex problems, optimizing performance, and building scalable, secure applications.
 
-- 🔭 **Recent Projects**:  
+- 🔭 **Recent Projects**:
+  - [Chat App](https://github.com/Mohamed-A-Badr/chat-app.git) – Real-time Full-stack chat application with WebSockets and authentication.
   - [Expense Tracker Web App](https://github.com/Mohamed-A-Badr/expense-tracker) – Secure financial tracking with JWT authentication & role-based access.  
   - [Weather App](https://github.com/Mohamed-A-Badr/weather-app) – Real-time weather data with optimized caching.  
   - [Kick Funding Application](https://github.com/kick-Funding-Application/Backend) – Scalable crowdfunding system with advanced search and analytics.  
